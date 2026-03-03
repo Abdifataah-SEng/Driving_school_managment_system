@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\Driving school managment system\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A07DEBCA-9149-46C7-B8E4-806939FD942F}|Driving school managment system\\Driving school managment system.csproj|C:\\Users\\pc\\source\\repos\\Driving school managment system\\driving school managment system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A07DEBCA-9149-46C7-B8E4-806939FD942F}|Driving school managment system\\Driving school managment system.csproj|c:\\users\\pc\\source\\repos\\driving school managment system\\driving school managment system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A07DEBCA-9149-46C7-B8E4-806939FD942F}|Driving school managment system\\Driving school managment system.csproj|solutionrelative:driving school managment system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A07DEBCA-9149-46C7-B8E4-806939FD942F}|Driving school managment system\\Driving school managment system.csproj|c:\\users\\pc\\source\\repos\\driving school managment system\\driving school managment system\\dash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A07DEBCA-9149-46C7-B8E4-806939FD942F}|Driving school managment system\\Driving school managment system.csproj|C:\\Users\\pc\\source\\repos\\Driving school managment system\\driving school managment system\\dash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A07DEBCA-9149-46C7-B8E4-806939FD942F}|Driving school managment system\\Driving school managment system.csproj|solutionrelative:driving school managment system\\dash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A07DEBCA-9149-46C7-B8E4-806939FD942F}|Driving school managment system\\Driving school managment system.csproj|c:\\users\\pc\\source\\repos\\driving school managment system\\driving school managment system\\dash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A07DEBCA-9149-46C7-B8E4-806939FD942F}|Driving school managment system\\Driving school managment system.csproj|C:\\Users\\pc\\source\\repos\\Driving school managment system\\driving school managment system\\dash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A07DEBCA-9149-46C7-B8E4-806939FD942F}|Driving school managment system\\Driving school managment system.csproj|solutionrelative:driving school managment system\\dash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,7 +19,7 @@
       "RelativeMoniker": "D:0:0:{A07DEBCA-9149-46C7-B8E4-806939FD942F}|Driving school managment system\\Driving school managment system.csproj|solutionrelative:driving school managment system\\fpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A07DEBCA-9149-46C7-B8E4-806939FD942F}|Driving school managment system\\Driving school managment system.csproj|c:\\users\\pc\\source\\repos\\driving school managment system\\driving school managment system\\fpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A07DEBCA-9149-46C7-B8E4-806939FD942F}|Driving school managment system\\Driving school managment system.csproj|C:\\Users\\pc\\source\\repos\\Driving school managment system\\driving school managment system\\fpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A07DEBCA-9149-46C7-B8E4-806939FD942F}|Driving school managment system\\Driving school managment system.csproj|solutionrelative:driving school managment system\\fpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -67,8 +67,7 @@
               "RelativeToolTip": "Driving school managment system\\Dash.cs",
               "ViewState": "AgIAAEkAAAAAAAAAAAAQwFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T10:57:32.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T10:57:32.786Z"
             },
             {
               "$type": "Document",
@@ -79,8 +78,7 @@
               "ToolTip": "C:\\Users\\pc\\source\\repos\\Driving school managment system\\Driving school managment system\\Dash.cs [Design]",
               "RelativeToolTip": "Driving school managment system\\Dash.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T06:58:22.08Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-02-21T06:58:22.08Z"
             },
             {
               "$type": "Document",
@@ -91,8 +89,7 @@
               "ToolTip": "C:\\Users\\pc\\source\\repos\\Driving school managment system\\Driving school managment system\\Fpassword.cs [Design]",
               "RelativeToolTip": "Driving school managment system\\Fpassword.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T13:28:08.355Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-03-01T13:28:08.355Z"
             },
             {
               "$type": "Document",
@@ -104,8 +101,7 @@
               "RelativeToolTip": "Driving school managment system\\Fpassword.cs",
               "ViewState": "AgIAAGoAAAAAAAAAAAAgwHkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T10:36:37.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T10:36:37.023Z"
             },
             {
               "$type": "Document",
@@ -117,8 +113,7 @@
               "RelativeToolTip": "Driving school managment system\\Login.cs",
               "ViewState": "AgIAAFIAAAAAAAAAAAApwF4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T13:56:46.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-19T13:56:46.992Z"
             },
             {
               "$type": "Document",
@@ -129,8 +124,7 @@
               "ToolTip": "C:\\Users\\pc\\source\\repos\\Driving school managment system\\Driving school managment system\\from1.cs [Design]",
               "RelativeToolTip": "Driving school managment system\\from1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T11:21:46.547Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-02-19T11:21:46.547Z"
             }
           ]
         }
