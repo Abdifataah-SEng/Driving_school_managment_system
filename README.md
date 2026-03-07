@@ -35,5 +35,5 @@ date this 2/4/2026
 
 ## Contributing
 
-Contributions and improvements are welcome. Please open issues or pull requests on the repository.
+Contributions and improvements are welcome. Please open issues or pull requests on the repository..
 
