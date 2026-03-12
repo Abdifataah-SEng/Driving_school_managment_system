@@ -56,6 +56,7 @@ namespace Driving_school_managment_system
         {
             moveIt(sender);
             lblform.Text = "Dashboard";
+            pnlContianer.Controls.Add(lblform);
         }
 
         private void btnStudent_Click(object sender, EventArgs e)
@@ -72,6 +73,10 @@ namespace Driving_school_managment_system
         {
             moveIt(sender);
             lblform.Text = "Intructors";
+            pnlContianer.Controls.Clear();
+            uc_Intructors in1 = new uc_Intructors();
+            in1.Dock = DockStyle.Fill;
+            pnlContianer.Controls.Add(in1);
         }
 
         private void btncourses_Click(object sender, EventArgs e)

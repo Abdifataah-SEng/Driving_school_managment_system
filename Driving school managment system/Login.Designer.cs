@@ -53,7 +53,7 @@
             this.panel3.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel3.Location = new System.Drawing.Point(0, 0);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(278, 418);
+            this.panel3.Size = new System.Drawing.Size(337, 427);
             this.panel3.TabIndex = 1;
             // 
             // pictureBox1
@@ -61,8 +61,8 @@
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(-1, 0);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(279, 418);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox1.Size = new System.Drawing.Size(338, 424);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 2;
             this.pictureBox1.TabStop = false;
             // 
@@ -75,11 +75,11 @@
             this.txtpassword.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtpassword.Font = new System.Drawing.Font("Georgia", 18.27692F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtpassword.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.txtpassword.Location = new System.Drawing.Point(350, 234);
+            this.txtpassword.Location = new System.Drawing.Point(410, 228);
             this.txtpassword.Multiline = true;
             this.txtpassword.Name = "txtpassword";
             this.txtpassword.PasswordChar = '*';
-            this.txtpassword.Size = new System.Drawing.Size(302, 39);
+            this.txtpassword.Size = new System.Drawing.Size(279, 37);
             this.txtpassword.TabIndex = 1;
             // 
             // txtuser
@@ -91,10 +91,10 @@
             this.txtuser.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtuser.Font = new System.Drawing.Font("Georgia", 18.27692F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtuser.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.txtuser.Location = new System.Drawing.Point(350, 173);
+            this.txtuser.Location = new System.Drawing.Point(410, 167);
             this.txtuser.Multiline = true;
             this.txtuser.Name = "txtuser";
-            this.txtuser.Size = new System.Drawing.Size(302, 39);
+            this.txtuser.Size = new System.Drawing.Size(279, 37);
             this.txtuser.TabIndex = 0;
             this.txtuser.TextChanged += new System.EventHandler(this.txtuser_TextChanged);
             // 
@@ -105,9 +105,9 @@
             this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button3.Font = new System.Drawing.Font("Cambria", 16.06154F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.ForeColor = System.Drawing.Color.White;
-            this.button3.Location = new System.Drawing.Point(350, 330);
+            this.button3.Location = new System.Drawing.Point(410, 334);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(302, 53);
+            this.button3.Size = new System.Drawing.Size(277, 49);
             this.button3.TabIndex = 7;
             this.button3.Text = "Login";
             this.button3.UseVisualStyleBackColor = false;
@@ -117,9 +117,9 @@
             // 
             this.checkBox1.AutoSize = true;
             this.checkBox1.Font = new System.Drawing.Font("Georgia", 8.861538F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.checkBox1.Location = new System.Drawing.Point(350, 292);
+            this.checkBox1.Location = new System.Drawing.Point(410, 287);
             this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(134, 22);
+            this.checkBox1.Size = new System.Drawing.Size(124, 21);
             this.checkBox1.TabIndex = 8;
             this.checkBox1.Text = "Show Password";
             this.checkBox1.UseVisualStyleBackColor = true;
@@ -130,9 +130,9 @@
             this.linkLabel1.AutoSize = true;
             this.linkLabel1.Font = new System.Drawing.Font("Georgia", 8.861538F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.linkLabel1.LinkColor = System.Drawing.Color.FromArgb(((int)(((byte)(254)))), ((int)(((byte)(250)))), ((int)(((byte)(224)))));
-            this.linkLabel1.Location = new System.Drawing.Point(525, 292);
+            this.linkLabel1.Location = new System.Drawing.Point(570, 287);
             this.linkLabel1.Name = "linkLabel1";
-            this.linkLabel1.Size = new System.Drawing.Size(142, 18);
+            this.linkLabel1.Size = new System.Drawing.Size(135, 17);
             this.linkLabel1.TabIndex = 9;
             this.linkLabel1.TabStop = true;
             this.linkLabel1.Text = "Forget password?";
@@ -141,9 +141,9 @@
             // pictureBox4
             // 
             this.pictureBox4.Image = global::Driving_school_managment_system.Properties.Resources.Pin_code_Password_Protection__Secure_Login_animation;
-            this.pictureBox4.Location = new System.Drawing.Point(289, 225);
+            this.pictureBox4.Location = new System.Drawing.Point(354, 220);
             this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(55, 55);
+            this.pictureBox4.Size = new System.Drawing.Size(50, 50);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox4.TabIndex = 10;
             this.pictureBox4.TabStop = false;
@@ -151,9 +151,9 @@
             // pictureBox3
             // 
             this.pictureBox3.Image = global::Driving_school_managment_system.Properties.Resources.Profile;
-            this.pictureBox3.Location = new System.Drawing.Point(289, 164);
+            this.pictureBox3.Location = new System.Drawing.Point(354, 158);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(55, 55);
+            this.pictureBox3.Size = new System.Drawing.Size(50, 50);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox3.TabIndex = 10;
             this.pictureBox3.TabStop = false;
@@ -163,9 +163,9 @@
             this.button1.FlatAppearance.BorderSize = 0;
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Image = ((System.Drawing.Image)(resources.GetObject("button1.Image")));
-            this.button1.Location = new System.Drawing.Point(659, 4);
+            this.button1.Location = new System.Drawing.Point(693, 4);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(32, 32);
+            this.button1.Size = new System.Drawing.Size(29, 29);
             this.button1.TabIndex = 6;
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click_1);
@@ -173,19 +173,19 @@
             // pictureBox2
             // 
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(377, 0);
+            this.pictureBox2.Location = new System.Drawing.Point(435, 0);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(242, 162);
+            this.pictureBox2.Size = new System.Drawing.Size(222, 161);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox2.TabIndex = 5;
             this.pictureBox2.TabStop = false;
             // 
             // Login
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(120F, 120F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(110F, 110F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(55)))), ((int)(((byte)(6)))), ((int)(((byte)(23)))));
-            this.ClientSize = new System.Drawing.Size(696, 418);
+            this.ClientSize = new System.Drawing.Size(727, 427);
             this.Controls.Add(this.pictureBox4);
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.linkLabel1);

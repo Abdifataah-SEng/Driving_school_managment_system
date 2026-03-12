@@ -47,35 +47,36 @@
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(16)))), ((int)(((byte)(44)))), ((int)(((byte)(38)))));
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(670, 10);
+            this.panel1.Size = new System.Drawing.Size(721, 9);
             this.panel1.TabIndex = 0;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
+            this.label1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.label1.Font = new System.Drawing.Font("Californian FB", 16.06154F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(122, 256);
+            this.label1.Location = new System.Drawing.Point(168, 298);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(426, 31);
+            this.label1.Size = new System.Drawing.Size(405, 29);
             this.label1.TabIndex = 2;
             this.label1.Text = "Driving-School Management System";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Cambria", 9.969231F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(291, 331);
+            this.label2.Font = new System.Drawing.Font("Cambria", 11.78182F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(323, 374);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(83, 20);
+            this.label2.Size = new System.Drawing.Size(89, 21);
             this.label2.TabIndex = 2;
             this.label2.Text = "Loading...";
             // 
             // progressBar1
             // 
             this.progressBar1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(213)))), ((int)(((byte)(94)))), ((int)(((byte)(28)))));
-            this.progressBar1.Location = new System.Drawing.Point(81, 296);
+            this.progressBar1.Location = new System.Drawing.Point(130, 335);
             this.progressBar1.Name = "progressBar1";
-            this.progressBar1.Size = new System.Drawing.Size(498, 14);
+            this.progressBar1.Size = new System.Drawing.Size(456, 25);
             this.progressBar1.TabIndex = 3;
             // 
             // timer1
@@ -85,9 +86,9 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(68, 24);
+            this.pictureBox1.Location = new System.Drawing.Point(86, 15);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(525, 224);
+            this.pictureBox1.Size = new System.Drawing.Size(562, 294);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 1;
             this.pictureBox1.TabStop = false;
@@ -95,33 +96,33 @@
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(16)))), ((int)(((byte)(44)))), ((int)(((byte)(38)))));
-            this.panel2.Location = new System.Drawing.Point(0, 370);
+            this.panel2.Location = new System.Drawing.Point(-2, 415);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(670, 10);
+            this.panel2.Size = new System.Drawing.Size(726, 9);
             this.panel2.TabIndex = 0;
             // 
             // panel3
             // 
             this.panel3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(16)))), ((int)(((byte)(44)))), ((int)(((byte)(38)))));
-            this.panel3.Location = new System.Drawing.Point(656, 1);
+            this.panel3.Location = new System.Drawing.Point(711, -2);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(14, 379);
+            this.panel3.Size = new System.Drawing.Size(13, 429);
             this.panel3.TabIndex = 0;
             // 
             // panel4
             // 
             this.panel4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(16)))), ((int)(((byte)(44)))), ((int)(((byte)(38)))));
-            this.panel4.Location = new System.Drawing.Point(-1, 4);
+            this.panel4.Location = new System.Drawing.Point(-1, -2);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(14, 376);
+            this.panel4.Size = new System.Drawing.Size(13, 420);
             this.panel4.TabIndex = 0;
             // 
             // Splash
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(120F, 120F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(110F, 110F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(250)))), ((int)(((byte)(236)))));
-            this.ClientSize = new System.Drawing.Size(670, 380);
+            this.ClientSize = new System.Drawing.Size(722, 423);
             this.Controls.Add(this.panel4);
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.progressBar1);

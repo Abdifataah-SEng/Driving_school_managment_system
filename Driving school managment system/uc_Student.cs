@@ -43,5 +43,10 @@ namespace Driving_school_managment_system
         {
 
         }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

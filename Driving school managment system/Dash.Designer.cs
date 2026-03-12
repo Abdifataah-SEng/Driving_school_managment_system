@@ -97,16 +97,16 @@
             this.panel1.Controls.Add(this.pictureBox1);
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(341, 785);
+            this.panel1.Size = new System.Drawing.Size(313, 720);
             this.panel1.TabIndex = 0;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
             // panel10
             // 
             this.panel10.BackColor = System.Drawing.Color.Blue;
-            this.panel10.Location = new System.Drawing.Point(19, 258);
+            this.panel10.Location = new System.Drawing.Point(17, 236);
             this.panel10.Name = "panel10";
-            this.panel10.Size = new System.Drawing.Size(13, 50);
+            this.panel10.Size = new System.Drawing.Size(12, 46);
             this.panel10.TabIndex = 6;
             // 
             // btnExrollments
@@ -118,9 +118,9 @@
             this.btnExrollments.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.btnExrollments.Image = global::Driving_school_managment_system.Properties.Resources.registration_32px;
             this.btnExrollments.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnExrollments.Location = new System.Drawing.Point(36, 550);
+            this.btnExrollments.Location = new System.Drawing.Point(33, 504);
             this.btnExrollments.Name = "btnExrollments";
-            this.btnExrollments.Size = new System.Drawing.Size(289, 50);
+            this.btnExrollments.Size = new System.Drawing.Size(265, 46);
             this.btnExrollments.TabIndex = 6;
             this.btnExrollments.Text = "Exrollments";
             this.btnExrollments.UseVisualStyleBackColor = false;
@@ -135,9 +135,9 @@
             this.btncourses.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.btncourses.Image = global::Driving_school_managment_system.Properties.Resources.knowledge_sharingg_32px;
             this.btncourses.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btncourses.Location = new System.Drawing.Point(36, 477);
+            this.btncourses.Location = new System.Drawing.Point(33, 437);
             this.btncourses.Name = "btncourses";
-            this.btncourses.Size = new System.Drawing.Size(289, 50);
+            this.btncourses.Size = new System.Drawing.Size(265, 46);
             this.btncourses.TabIndex = 6;
             this.btncourses.Text = "Courses";
             this.btncourses.UseVisualStyleBackColor = false;
@@ -152,9 +152,9 @@
             this.btnIntructors.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.btnIntructors.Image = global::Driving_school_managment_system.Properties.Resources.training_32px;
             this.btnIntructors.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnIntructors.Location = new System.Drawing.Point(36, 404);
+            this.btnIntructors.Location = new System.Drawing.Point(33, 370);
             this.btnIntructors.Name = "btnIntructors";
-            this.btnIntructors.Size = new System.Drawing.Size(289, 50);
+            this.btnIntructors.Size = new System.Drawing.Size(265, 46);
             this.btnIntructors.TabIndex = 6;
             this.btnIntructors.Text = "Intructors";
             this.btnIntructors.UseVisualStyleBackColor = false;
@@ -169,9 +169,9 @@
             this.btnStudent.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.btnStudent.Image = global::Driving_school_managment_system.Properties.Resources.student_male_32px;
             this.btnStudent.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnStudent.Location = new System.Drawing.Point(36, 331);
+            this.btnStudent.Location = new System.Drawing.Point(33, 303);
             this.btnStudent.Name = "btnStudent";
-            this.btnStudent.Size = new System.Drawing.Size(289, 50);
+            this.btnStudent.Size = new System.Drawing.Size(265, 46);
             this.btnStudent.TabIndex = 6;
             this.btnStudent.Text = "Students";
             this.btnStudent.UseVisualStyleBackColor = false;
@@ -186,9 +186,9 @@
             this.btnDash.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.btnDash.Image = global::Driving_school_managment_system.Properties.Resources.home_32px;
             this.btnDash.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnDash.Location = new System.Drawing.Point(36, 258);
+            this.btnDash.Location = new System.Drawing.Point(33, 236);
             this.btnDash.Name = "btnDash";
-            this.btnDash.Size = new System.Drawing.Size(289, 50);
+            this.btnDash.Size = new System.Drawing.Size(265, 46);
             this.btnDash.TabIndex = 6;
             this.btnDash.Text = "Dashboard";
             this.btnDash.UseVisualStyleBackColor = false;
@@ -199,18 +199,18 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Century", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
-            this.label1.Location = new System.Drawing.Point(191, 48);
+            this.label1.Location = new System.Drawing.Point(175, 44);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(141, 78);
+            this.label1.Size = new System.Drawing.Size(133, 72);
             this.label1.TabIndex = 3;
             this.label1.Text = "School \r\nDriving\r\n";
             // 
             // pictureBox2
             // 
             this.pictureBox2.Image = global::Driving_school_managment_system.Properties.Resources.minus_32px1;
-            this.pictureBox2.Location = new System.Drawing.Point(12, 161);
+            this.pictureBox2.Location = new System.Drawing.Point(11, 148);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(313, 32);
+            this.pictureBox2.Size = new System.Drawing.Size(287, 29);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 1;
             this.pictureBox2.TabStop = false;
@@ -218,9 +218,9 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::Driving_school_managment_system.Properties.Resources.Driving;
-            this.pictureBox1.Location = new System.Drawing.Point(12, 5);
+            this.pictureBox1.Location = new System.Drawing.Point(11, 5);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(178, 166);
+            this.pictureBox1.Size = new System.Drawing.Size(163, 152);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 1;
             this.pictureBox1.TabStop = false;
@@ -228,10 +228,9 @@
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(9)))), ((int)(((byte)(5)))));
-            this.panel2.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel2.Location = new System.Drawing.Point(0, 0);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(1517, 10);
+            this.panel2.Size = new System.Drawing.Size(1391, 9);
             this.panel2.TabIndex = 1;
             // 
             // panel3
@@ -244,9 +243,9 @@
             this.panel3.Controls.Add(this.lblform);
             this.panel3.Controls.Add(this.button2);
             this.panel3.Controls.Add(this.button1);
-            this.panel3.Location = new System.Drawing.Point(341, 7);
+            this.panel3.Location = new System.Drawing.Point(313, 6);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(1168, 50);
+            this.panel3.Size = new System.Drawing.Size(1071, 46);
             this.panel3.TabIndex = 2;
             // 
             // button3
@@ -255,9 +254,9 @@
             this.button3.FlatAppearance.BorderSize = 0;
             this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button3.Image = global::Driving_school_managment_system.Properties.Resources.minus_32px1;
-            this.button3.Location = new System.Drawing.Point(1025, 6);
+            this.button3.Location = new System.Drawing.Point(940, 6);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(35, 35);
+            this.button3.Size = new System.Drawing.Size(32, 32);
             this.button3.TabIndex = 0;
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
@@ -266,9 +265,9 @@
             // 
             this.lblform.AutoSize = true;
             this.lblform.Font = new System.Drawing.Font("Cambria", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblform.Location = new System.Drawing.Point(24, 14);
+            this.lblform.Location = new System.Drawing.Point(22, 13);
             this.lblform.Name = "lblform";
-            this.lblform.Size = new System.Drawing.Size(131, 27);
+            this.lblform.Size = new System.Drawing.Size(125, 26);
             this.lblform.TabIndex = 0;
             this.lblform.Text = "Dashbourd";
             // 
@@ -278,9 +277,9 @@
             this.button2.FlatAppearance.BorderSize = 0;
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button2.Image = global::Driving_school_managment_system.Properties.Resources.maximize_button_32px;
-            this.button2.Location = new System.Drawing.Point(1079, 6);
+            this.button2.Location = new System.Drawing.Point(989, 6);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(35, 35);
+            this.button2.Size = new System.Drawing.Size(32, 32);
             this.button2.TabIndex = 0;
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
@@ -291,9 +290,9 @@
             this.button1.FlatAppearance.BorderSize = 0;
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Image = global::Driving_school_managment_system.Properties.Resources.icons8_exit;
-            this.button1.Location = new System.Drawing.Point(1129, 6);
+            this.button1.Location = new System.Drawing.Point(1035, 6);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(35, 35);
+            this.button1.Size = new System.Drawing.Size(32, 32);
             this.button1.TabIndex = 0;
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
@@ -301,19 +300,17 @@
             // panel4
             // 
             this.panel4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(9)))), ((int)(((byte)(5)))));
-            this.panel4.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel4.Location = new System.Drawing.Point(0, 772);
+            this.panel4.Location = new System.Drawing.Point(0, 708);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(1507, 13);
+            this.panel4.Size = new System.Drawing.Size(1382, 12);
             this.panel4.TabIndex = 1;
             // 
             // panel5
             // 
             this.panel5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(9)))), ((int)(((byte)(5)))));
-            this.panel5.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel5.Location = new System.Drawing.Point(1507, 10);
+            this.panel5.Location = new System.Drawing.Point(1382, 9);
             this.panel5.Name = "panel5";
-            this.panel5.Size = new System.Drawing.Size(10, 775);
+            this.panel5.Size = new System.Drawing.Size(9, 711);
             this.panel5.TabIndex = 1;
             // 
             // pnlContianer
@@ -327,9 +324,9 @@
             this.pnlContianer.Controls.Add(this.panel7);
             this.pnlContianer.Controls.Add(this.pictureBox4);
             this.pnlContianer.Controls.Add(this.panel11);
-            this.pnlContianer.Location = new System.Drawing.Point(341, 66);
+            this.pnlContianer.Location = new System.Drawing.Point(313, 60);
             this.pnlContianer.Name = "pnlContianer";
-            this.pnlContianer.Size = new System.Drawing.Size(1168, 703);
+            this.pnlContianer.Size = new System.Drawing.Size(1071, 644);
             this.pnlContianer.TabIndex = 4;
             this.pnlContianer.Paint += new System.Windows.Forms.PaintEventHandler(this.pnlContianer_Paint);
             // 
@@ -340,9 +337,9 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.pictureBox7.BackColor = System.Drawing.Color.Maroon;
             this.pictureBox7.Image = global::Driving_school_managment_system.Properties.Resources.registration_32px;
-            this.pictureBox7.Location = new System.Drawing.Point(881, 12);
+            this.pictureBox7.Location = new System.Drawing.Point(808, 11);
             this.pictureBox7.Name = "pictureBox7";
-            this.pictureBox7.Size = new System.Drawing.Size(136, 87);
+            this.pictureBox7.Size = new System.Drawing.Size(125, 80);
             this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox7.TabIndex = 19;
             this.pictureBox7.TabStop = false;
@@ -351,18 +348,18 @@
             // 
             this.panel9.Controls.Add(this.label9);
             this.panel9.Controls.Add(this.label8);
-            this.panel9.Location = new System.Drawing.Point(867, 43);
+            this.panel9.Location = new System.Drawing.Point(795, 39);
             this.panel9.Name = "panel9";
-            this.panel9.Size = new System.Drawing.Size(260, 127);
+            this.panel9.Size = new System.Drawing.Size(238, 116);
             this.panel9.TabIndex = 15;
             // 
             // label9
             // 
             this.label9.AutoSize = true;
             this.label9.Font = new System.Drawing.Font("Cambria", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.Location = new System.Drawing.Point(157, 16);
+            this.label9.Location = new System.Drawing.Point(144, 15);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(54, 22);
+            this.label9.Size = new System.Drawing.Size(49, 20);
             this.label9.TabIndex = 0;
             this.label9.Text = "9897";
             // 
@@ -370,9 +367,9 @@
             // 
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("Cambria", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.Location = new System.Drawing.Point(88, 89);
+            this.label8.Location = new System.Drawing.Point(81, 82);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(112, 22);
+            this.label8.Size = new System.Drawing.Size(100, 20);
             this.label8.TabIndex = 0;
             this.label8.Text = "Enrolments";
             // 
@@ -382,9 +379,9 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.Dashbourd.Image = global::Driving_school_managment_system.Properties.Resources._7779606;
-            this.Dashbourd.Location = new System.Drawing.Point(0, 176);
+            this.Dashbourd.Location = new System.Drawing.Point(0, 161);
             this.Dashbourd.Name = "Dashbourd";
-            this.Dashbourd.Size = new System.Drawing.Size(1168, 524);
+            this.Dashbourd.Size = new System.Drawing.Size(1071, 480);
             this.Dashbourd.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.Dashbourd.TabIndex = 14;
             this.Dashbourd.TabStop = false;
@@ -396,9 +393,9 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.pictureBox6.BackColor = System.Drawing.Color.Fuchsia;
             this.pictureBox6.Image = global::Driving_school_managment_system.Properties.Resources.knowledge_sharingg_32px;
-            this.pictureBox6.Location = new System.Drawing.Point(595, 12);
+            this.pictureBox6.Location = new System.Drawing.Point(545, 11);
             this.pictureBox6.Name = "pictureBox6";
-            this.pictureBox6.Size = new System.Drawing.Size(136, 87);
+            this.pictureBox6.Size = new System.Drawing.Size(125, 80);
             this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox6.TabIndex = 20;
             this.pictureBox6.TabStop = false;
@@ -407,18 +404,18 @@
             // 
             this.panel8.Controls.Add(this.label3);
             this.panel8.Controls.Add(this.label2);
-            this.panel8.Location = new System.Drawing.Point(584, 43);
+            this.panel8.Location = new System.Drawing.Point(535, 39);
             this.panel8.Name = "panel8";
-            this.panel8.Size = new System.Drawing.Size(260, 127);
+            this.panel8.Size = new System.Drawing.Size(238, 116);
             this.panel8.TabIndex = 16;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Cambria", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(165, 17);
+            this.label3.Location = new System.Drawing.Point(151, 16);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(32, 22);
+            this.label3.Size = new System.Drawing.Size(29, 20);
             this.label3.TabIndex = 0;
             this.label3.Text = "17";
             // 
@@ -426,9 +423,9 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Cambria", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(80, 89);
+            this.label2.Location = new System.Drawing.Point(73, 82);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(80, 22);
+            this.label2.Size = new System.Drawing.Size(72, 20);
             this.label2.TabIndex = 0;
             this.label2.Text = "Courses";
             // 
@@ -439,9 +436,9 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.pictureBox5.BackColor = System.Drawing.Color.ForestGreen;
             this.pictureBox5.Image = global::Driving_school_managment_system.Properties.Resources.training_32px;
-            this.pictureBox5.Location = new System.Drawing.Point(315, 12);
+            this.pictureBox5.Location = new System.Drawing.Point(289, 11);
             this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(136, 87);
+            this.pictureBox5.Size = new System.Drawing.Size(125, 80);
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox5.TabIndex = 21;
             this.pictureBox5.TabStop = false;
@@ -450,18 +447,18 @@
             // 
             this.panel7.Controls.Add(this.label5);
             this.panel7.Controls.Add(this.label4);
-            this.panel7.Location = new System.Drawing.Point(301, 43);
+            this.panel7.Location = new System.Drawing.Point(276, 39);
             this.panel7.Name = "panel7";
-            this.panel7.Size = new System.Drawing.Size(260, 127);
+            this.panel7.Size = new System.Drawing.Size(238, 116);
             this.panel7.TabIndex = 17;
             // 
             // label5
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Cambria", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(156, 17);
+            this.label5.Location = new System.Drawing.Point(143, 16);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(32, 22);
+            this.label5.Size = new System.Drawing.Size(29, 20);
             this.label5.TabIndex = 0;
             this.label5.Text = "15";
             // 
@@ -469,9 +466,9 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Cambria", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(92, 89);
+            this.label4.Location = new System.Drawing.Point(84, 82);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(109, 22);
+            this.label4.Size = new System.Drawing.Size(97, 20);
             this.label4.TabIndex = 0;
             this.label4.Text = "Instructors";
             // 
@@ -482,9 +479,9 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.pictureBox4.BackColor = System.Drawing.Color.LimeGreen;
             this.pictureBox4.Image = global::Driving_school_managment_system.Properties.Resources.student_male_32px;
-            this.pictureBox4.Location = new System.Drawing.Point(32, 12);
+            this.pictureBox4.Location = new System.Drawing.Point(29, 11);
             this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(136, 87);
+            this.pictureBox4.Size = new System.Drawing.Size(125, 80);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox4.TabIndex = 22;
             this.pictureBox4.TabStop = false;
@@ -493,18 +490,18 @@
             // 
             this.panel11.Controls.Add(this.label7);
             this.panel11.Controls.Add(this.label6);
-            this.panel11.Location = new System.Drawing.Point(18, 43);
+            this.panel11.Location = new System.Drawing.Point(16, 39);
             this.panel11.Name = "panel11";
-            this.panel11.Size = new System.Drawing.Size(260, 127);
+            this.panel11.Size = new System.Drawing.Size(238, 116);
             this.panel11.TabIndex = 18;
             // 
             // label7
             // 
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Cambria", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(159, 17);
+            this.label7.Location = new System.Drawing.Point(146, 16);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(43, 22);
+            this.label7.Size = new System.Drawing.Size(39, 20);
             this.label7.TabIndex = 0;
             this.label7.Text = "689";
             // 
@@ -512,18 +509,18 @@
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Cambria", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(84, 89);
+            this.label6.Location = new System.Drawing.Point(77, 82);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(86, 22);
+            this.label6.Size = new System.Drawing.Size(77, 20);
             this.label6.TabIndex = 0;
             this.label6.Text = "Students";
             // 
             // Dash
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(120F, 120F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(110F, 110F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(1517, 785);
+            this.ClientSize = new System.Drawing.Size(1391, 720);
             this.Controls.Add(this.pnlContianer);
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.panel4);

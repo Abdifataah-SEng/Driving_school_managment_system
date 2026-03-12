@@ -99,3 +99,5 @@ C:\Users\pc\source\repos\Driving school managment system\Driving school managmen
 C:\Users\pc\source\repos\Driving school managment system\Driving school managment system\obj\Debug\Driving_school_managment_system.uc_Student.resources
 C:\Users\pc\source\repos\Driving school managment system\Driving school managment system\obj\Debug\Driving .1116D46C.Up2Date
 C:\Users\pc\source\repos\Driving school managment system\Driving school managment system\obj\Debug\Driving_school_managment_system.students.resources
+C:\Users\pc\source\repos\Driving school managment system\Driving school managment system\obj\Debug\Driving_school_managment_system.Intructors.resources
+C:\Users\pc\source\repos\Driving school managment system\Driving school managment system\obj\Debug\Driving_school_managment_system.uc_Intructors.resources

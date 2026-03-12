@@ -189,6 +189,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>DrivingDataSet1.xsd</DependentUpon>
     </Compile>
+    <Compile Include="DrivingDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DrivingDataSet2.xsd</DependentUpon>
+    </Compile>
     <Compile Include="Fpassword.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -200,6 +205,12 @@
     </Compile>
     <Compile Include="from1.Designer.cs">
       <DependentUpon>from1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Intructors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Intructors.Designer.cs">
+      <DependentUpon>Intructors.cs</DependentUpon>
     </Compile>
     <Compile Include="Login.cs">
       <SubType>Form</SubType>
@@ -221,6 +232,12 @@
     <Compile Include="transparentBg1.designer.cs">
       <DependentUpon>transparentBg1.cs</DependentUpon>
     </Compile>
+    <Compile Include="uc_Intructors.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="uc_Intructors.Designer.cs">
+      <DependentUpon>uc_Intructors.cs</DependentUpon>
+    </Compile>
     <Compile Include="uc_Student.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -235,6 +252,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="from1.resx">
       <DependentUpon>from1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Intructors.resx">
+      <DependentUpon>Intructors.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
@@ -254,6 +274,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="transparentBg1.resx">
       <DependentUpon>transparentBg1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uc_Intructors.resx">
+      <DependentUpon>uc_Intructors.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="uc_Student.resx">
       <DependentUpon>uc_Student.cs</DependentUpon>
@@ -279,6 +302,17 @@
     </None>
     <None Include="DrivingDataSet1.xss">
       <DependentUpon>DrivingDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DrivingDataSet2.xsc">
+      <DependentUpon>DrivingDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="DrivingDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DrivingDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DrivingDataSet2.xss">
+      <DependentUpon>DrivingDataSet2.xsd</DependentUpon>
     </None>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
