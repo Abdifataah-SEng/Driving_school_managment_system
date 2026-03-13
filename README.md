@@ -29,8 +29,14 @@ A simple Windows Forms application written in C# targeting `.NET Framework 4.7.2
 - password = admin
 
 ## what is new
-I am create Student form and coonection database and create UC_student this have dataGridView to see database was added 
-date this 2/4/2026
+I am create Student form and connection database and create UC_student this have dataGridView to see database was added 
+date this 2/4/2026.
+<p>
+date 3/13/2026
+i am create Intructors and UC_Intructors and the correct errors is save , delete. connect intructors in dashbourd.  
+</p>
+-In Dashbourd was update size and small colors and use Docks .
+
 
 
 ## Contributing

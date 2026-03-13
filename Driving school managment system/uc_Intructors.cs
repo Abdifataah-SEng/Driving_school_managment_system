@@ -43,6 +43,11 @@ namespace Driving_school_managment_system
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
+            
+        }
+
+        private void uc_Intructors_Load_1(object sender, EventArgs e)
+        {
             this.instructorsTableAdapter.Fill(this.drivingDataSet2.Instructors);
         }
     }
