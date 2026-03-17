@@ -173,6 +173,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Courses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Courses.Designer.cs">
+      <DependentUpon>Courses.cs</DependentUpon>
+    </Compile>
     <Compile Include="Dash.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -193,6 +199,11 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>DrivingDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DrivingDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DrivingDataSet3.xsd</DependentUpon>
     </Compile>
     <Compile Include="Fpassword.cs">
       <SubType>Form</SubType>
@@ -232,6 +243,12 @@
     <Compile Include="transparentBg1.designer.cs">
       <DependentUpon>transparentBg1.cs</DependentUpon>
     </Compile>
+    <Compile Include="UC_Courses.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Courses.Designer.cs">
+      <DependentUpon>UC_Courses.cs</DependentUpon>
+    </Compile>
     <Compile Include="uc_Intructors.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -244,6 +261,9 @@
     <Compile Include="uc_Student.Designer.cs">
       <DependentUpon>uc_Student.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Courses.resx">
+      <DependentUpon>Courses.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Dash.resx">
       <DependentUpon>Dash.cs</DependentUpon>
     </EmbeddedResource>
@@ -274,6 +294,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="transparentBg1.resx">
       <DependentUpon>transparentBg1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Courses.resx">
+      <DependentUpon>UC_Courses.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="uc_Intructors.resx">
       <DependentUpon>uc_Intructors.cs</DependentUpon>
@@ -313,6 +336,17 @@
     </None>
     <None Include="DrivingDataSet2.xss">
       <DependentUpon>DrivingDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="DrivingDataSet3.xsc">
+      <DependentUpon>DrivingDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="DrivingDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DrivingDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DrivingDataSet3.xss">
+      <DependentUpon>DrivingDataSet3.xsd</DependentUpon>
     </None>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
